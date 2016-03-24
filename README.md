@@ -1,3 +1,3 @@
 # silver-guacamole
-## changelog
+### changelog
 [+] OS Detection (with macro)
